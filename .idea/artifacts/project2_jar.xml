@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="project2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/project2_jar</output-path>
+    <root id="archive" name="OOPT_P2_0426412.jar">
+      <element id="module-output" name="project2" />
+      <element id="module-test-output" name="project2" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.10.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/test" />
+    </root>
+  </artifact>
+</component>
